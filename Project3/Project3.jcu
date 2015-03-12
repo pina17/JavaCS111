@@ -1,0 +1,33 @@
+<?xml?>
+<workspace_user>
+	<active_project>
+		<label>Vending MachineProject</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>Vending MachineProject</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>E:\Vending MachineProject\classes</path>
+			</folderitem>
+			<folderitem>
+				<path>E:\Vending MachineProject\src</path>
+			</folderitem>
+		</project>
+		<project>
+			<label>MortgageProgramCS11</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>E:\MortgageProgramCS11\src</path>
+			</folderitem>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>E:\MortgageProgramCS11\src\MortgageProgramCS11.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>true</active>
+		</docitem>
+	</open_files>
+</workspace_user>
