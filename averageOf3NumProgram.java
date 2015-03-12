@@ -46,7 +46,7 @@
  		
  		average = (num1 + num2 + num3) / 3;
  		
- 		System.out.println("The average of the three numbers are " + average);
+ 		System.out.println("The average of the three numbers are: " + average);
  		
  	}
  }
